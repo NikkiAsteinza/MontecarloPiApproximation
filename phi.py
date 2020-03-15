@@ -26,6 +26,6 @@ def function_circle(n):
     
     return len(x_blue)
     
-    n=10000000
+n=10000000
 dentro = function_circle(n)
 print(4*dentro/n)
